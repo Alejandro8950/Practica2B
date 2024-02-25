@@ -1,5 +1,9 @@
 Juan
+<<<<<<< HEAD
 Juanito
+=======
+Pepe1
+>>>>>>> cdbef0917f16826e6962ba32fb95d2ad3754b78f
 Jorge
 Martin
 María y Luis
